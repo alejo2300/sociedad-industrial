@@ -9,7 +9,7 @@
      
     
     <!-- STYLE -->
-    <link rel="stylesheet" href="styles/contactme.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles/contactme.css') }}">
     <title>Tecnology Society::AA</title>
 </head>
 <body>
@@ -42,7 +42,7 @@
           <h2>Camargo</h2>
         </div>
         <div class="presentationPhoto">
-          <img class="myPhoto" src="assets/ANCD.png" alt="AnaCamargo">
+          <img class="myPhoto" src="{{url_for('static',filename = 'assets/ANCD.png')}}" alt="AnaCamargo">
         </div> 
         <div class="description">
           <p>

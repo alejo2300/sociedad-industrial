@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Tecnology Society</title>
     <!-- STYLE -->
-    <link rel="stylesheet" href="styles/related.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles/related.css') }}">
     <!-- IMPORT EXTRAS -->
 
     <!-- bootstrap -->
@@ -43,7 +43,7 @@
         <div class="row">
             <div class="col-sm">
                 <div class="card" style="width: 18rem;">
-                    <img src="assets/TedKC.jpg" class="card-img-top" alt="Ted">
+                    <img src="{{ url_for('static', filename='assets/TedKC.jpg') }}" class="card-img-top" alt="Ted">
                     <div class="card-body">
                       <h5 class="card-title">Texto Principal</h5>
                       <p class="card-text">Industrial Society and It’s Future – La Sociedad Industrial y su futuro.</p>
