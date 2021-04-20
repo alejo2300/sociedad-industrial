@@ -1,0 +1,10 @@
+.page{
+    margin: 2rem 7% 1rem 7%;
+    padding: 5%;
+    background-color: #eeeeee;
+}
+
+.navis{
+    text-decoration: none !important;
+    color: black;
+}
