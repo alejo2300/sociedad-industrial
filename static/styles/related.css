@@ -3,3 +3,16 @@
     padding: 5%;
 }
 
+/* LINEA DEL TIEMPO */
+.container{
+    margin-top: 2rem;
+}
+
+.timeline {
+    position: relative;
+    margin-top: 2cm;
+}
+
+.timeline .row {
+    position: relative;
+}
