@@ -1,0 +1,10 @@
+assets/Cerebro/nlm.dementia.png
+assets/Cerebro/nypl.brainandnerves.jpg
+assets/Cerebro/nypl.brainpic.jpg
+assets/Cerebro/nypl.cirurgicalteather.jpg
+assets/Cerebro/nypl.craniusandbrain.jpg
+assets/Cerebro/nypl.craniusandbrain2.jpg
+assets/Cerebro/nypl.craniusandbrain3.jpg
+assets/Cerebro/nypl.craniusandbrain4.jpg
+assets/Cerebro/nypl.spinalnervesarm.jpg
+assets/Cerebro/whydomanmissbihave.png
